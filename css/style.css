@@ -1,0 +1,24 @@
+body, html{
+	background-color:#F2784B;
+	padding:0px;
+	margin:0px;
+}
+
+h1{
+	text-align:center;
+	color:#ECECEC;
+	font-family:'Arial';
+	font-weight:300;
+	margin-bottom:0px;
+}
+
+svg{
+	display:block;
+	margin:0 auto;
+}
+
+hr{
+	width:20%;
+	margin:2px 40% 50px 40%;
+	color:white;
+}
